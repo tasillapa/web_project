@@ -469,34 +469,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row clearfix">
-                                            <div class="col-lg-2 col-md-2 col-sm-3 col-xs-5 form-control-label-l">
-                                                <label >มีวันลาพักผ่อนสะสม</label>
-                                            </div>
-                                            <div class="col-lg-1 col-md-9 col-sm-4 col-xs-12">
-                                                <div class="form-group">
-                                                    <div class="form-line">
-                                                        <input type="text" id="card_id" class="form-control" placeholder="">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-5 col-md-2 col-sm-3 col-xs-5 form-control-label-l">
-                                                <label >วันทำการ  &nbsp; &nbsp;มีสิทธิลาพักผ่อนประจำปีนี้อีก 10 วันทำการ </label>
-                                            </div>
-                                            <div class="col-lg-1 col-md-2 col-sm-3 col-xs-5 form-control-label">
-                                                <label >รวมเป็น</label>
-                                            </div>
-                                            <div class="col-lg-1 col-md-2 col-sm-3 col-xs-5 form-control-label-l">
-                                                <div class="form-group">
-                                                    <div class="form-line">
-                                                        <input type="text" id="card_id" class="form-control" placeholder="">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-2 col-md-2 col-sm-3 col-xs-5 form-control-label-l">
-                                                <label >วันทำการ   </label>
-                                            </div>
-                                        </div>
+                                        
                                         <div class="row clearfix">
                                             <div class="col-lg-2 col-md-2 col-sm-3 col-xs-5 form-control-label-l">
                                                 <label >ตั้งแต่วันที่</label>
@@ -606,10 +579,16 @@
                                             </div>
 
                                         </div>
+                                        
+                                        
 
 
                                     </div>
-
+                                    
+                                    <div class="modal-footer">
+                                <button type="button" class="btn btn-primary waves-effect" >บันทึก</button>
+                                <button type="button" class="btn btn-danger waves-effect" data-dismiss="modal">ยกเลิก</button>
+                                   </div>
 
 
 
